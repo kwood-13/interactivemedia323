@@ -1,1 +1,105 @@
-body{background: yellow;}
+body{
+	background: ;
+}
+
+h1{
+	text-align: center;
+	color: ;
+	font-size: 45px;
+}
+
+#table-of-contents{
+	text-align: center;
+	font-size: 30px;
+}
+
+#table-of-contents a {
+	display: inline-block;
+	width: 200px;
+	color: red;
+	list-style: none;
+	font-size: 20px;
+	text-decoration: none;
+	border-color: black;
+	border-style: dotted;
+	margin-right: 20px;
+}
+
+#table-of-contents a:hover{
+	color: white;
+	background: brown;
+}
+
+#summary{
+	background: ;
+	padding: 10px;
+	border: 7px black;
+	border-style: solid;
+	margin: 30px auto;
+	width: 80%;
+	font-family: arial;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+#one{
+	background: ;
+	padding: 5px;
+	border: 7px black;
+	border-style: dashed;
+	border-color: firebrick;
+	margin: 10px auto;
+	width: 95%;
+}
+
+#two{
+	background: ;
+	padding: 5px;
+	border: 7px black;
+	border-style: dashed;
+	border-color: darkred;
+	margin: 10px auto;
+	width: 95%;
+}
+
+#three{
+	background: ;
+	padding: 5px;
+	border: 7px black;
+	border-style: dashed;
+	border-color: firebrick;
+	margin: 10px auto;
+	width: 95%;
+}
+
+p{
+	font-family: arial;
+}
+
+.number{
+	font-family: arial;
+}
+
+img{
+	max-width: 50%;
+	max-height: 50%;
+}
+
+a#back-to-top {
+	color: red;
+	font-size: 20px;
+	text-decoration: none;
+	border-color: black;
+	border-style: dotted;
+	padding: 5px;
+	margin: 10px;
+}
+
+a#back-to-top:hover{
+	color: white;
+	background: brown;
+}
