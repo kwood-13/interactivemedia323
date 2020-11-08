@@ -23,6 +23,10 @@ p{
 	font-size: 20px;
 }
 
+ul{
+	color: yellow;
+}
+
 ul a{
 	color: yellow;
 	text-decoration: none;
@@ -32,3 +36,4 @@ ul a:hover{
 	background: yellow;
 	color: darkgreen;
 }
+
