@@ -54,7 +54,8 @@ h2{
 	border-style: dashed;
 	border-color: firebrick;
 	margin: 10px auto;
-	width: 95%;
+	width: 100%;
+	column-count: 2;
 }
 
 #two{
@@ -80,7 +81,7 @@ h2{
 .number{
 	display: inline-block;
 	font-family: arial;
-	width: 50%;
+	width: 100%;
 	padding: 2px;
 	margin: 5px;
 	text-align: left;
