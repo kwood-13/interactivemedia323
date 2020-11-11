@@ -1,3 +1,39 @@
 .one{
-	
+	float: right;
+}
+
+.two{
+	float: left;
+}
+
+.three{
+	clear: left;
+}
+
+.four{
+	float: right;
+}
+
+.five{
+	clear: left;
+}
+
+.six{
+	float: right;
+}
+
+.seven{
+	clear: left;
+}
+
+.eight{
+	float: right;
+}
+
+.nine{
+	float: left;
+}
+
+.ten{
+	clear: right;
 }
