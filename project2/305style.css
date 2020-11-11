@@ -1,3 +1,46 @@
-a{
-	font-size: 100px;
+.one{
+	position: relative;
+	left: 500px;
+}
+
+.two{
+	position: relative;
+	left: 1000px;
+}
+
+.three{
+	position: relative;
+	left: 1500px;
+}
+
+.four{
+	position: relative;
+	left: 1700px;
+}
+
+.five{
+	position: absolute;
+}
+
+.seven{
+	position: relative;
+	left: 2000px;
+	bottom: 500px;
+}
+
+.eight{
+	position: relative;
+	left: 2500px;
+	bottom: 600px;
+}
+
+.nine{
+	position: relative;
+	left: 2700px;
+}
+
+.ten{
+	position: relative;
+	left: 3000px;
+	bottom: 500px;
 }
