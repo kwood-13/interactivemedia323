@@ -1,0 +1,105 @@
+.top-container{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.logo{
+	border-style: solid;
+	width: 150px;
+	height: 45px;
+	display: inline-block;
+	margin-right: 10px;
+	background: black;
+}
+
+.search{
+	border-style: solid;
+	width: 1000px;
+	height: 45px;
+	border-radius: 30px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.icon{
+	border-style: solid;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	margin-left: 20px;
+	background: black;
+}
+
+.profile{
+	border-style: solid;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	margin-left: 20px;
+	background: black;
+}
+
+li{
+	display: inline-block;
+	width: 50px;
+	list-style: none;
+	margin-left: 90px;
+}
+
+.long_rectangle{
+	border-style: solid;
+	width: 700px;
+	height: 35px;
+	margin-left: 345px;
+	margin-top: 30px;
+}
+
+.circleimage1{
+	width: 150px;
+	height: 150px;
+	border-radius: 80px;
+	display: inline-block;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 185px;
+	background: gray;
+}
+
+.circleimage{
+	width: 150px;
+	height: 150px;
+	border-radius: 80px;
+	display: inline-block;
+	background: gray;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 65px;
+}
+
+.rectangle1{
+	border-style: solid;
+	width: 300px;
+	height: 100px;
+	display: inline-block;
+	margin-left: 95px;
+}
+
+.rectangle{
+	border-style: solid;
+	width: 300px;
+	height: 100px;
+	display: inline-block;
+	margin-left: 137px;
+}
+
+.image{
+	width: 170px;
+	height: 170px;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	background: gray;
+}
