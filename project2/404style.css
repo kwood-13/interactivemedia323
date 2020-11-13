@@ -1,0 +1,8 @@
+.one, .three, .five, .seven, .nine{
+	text-transform: capitalize;
+}
+
+.two, .four, .six, .eight, .ten{
+	text-transform: uppercase;
+}
+
