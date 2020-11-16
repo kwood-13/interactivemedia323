@@ -1,0 +1,26 @@
+.main{
+	position: relative;
+	left: 550px;
+	top: 100px;
+	color: white;
+}
+
+.main2{
+	position: relative;
+	right: 859px;
+	bottom: 314px;
+	transform: scale(-1,1);
+	color: white;
+}
+
+#arrow{
+	position: relative;
+	left: 548px;
+	top: 100px;
+	color: white;
+}
+
+html{
+	background: lightblue;
+}
+

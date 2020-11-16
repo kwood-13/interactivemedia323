@@ -1,0 +1,9 @@
+p{
+	font-size: 35px;
+	font-family: impact, charcoal, san-serif;
+	color: white;
+}
+
+p:hover{
+	color: #6666ff;
+}
