@@ -3,5 +3,18 @@ html{
 }
 
 .main{
-	color: pink;
+	writing-mode: vertical-lr;
+	text-orientation: upright;
+	position: relative;
+	left: 400px;
 }
+
+.one, .three, .five, .seven, .nine{
+	color: white;
+}
+
+.two, .four, .six, .eight, .ten{
+	color: ;
+	color: gray;
+}
+
