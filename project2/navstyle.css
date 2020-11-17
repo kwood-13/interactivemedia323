@@ -1,0 +1,242 @@
+html{
+	background: #faf2dc;
+}
+
+body{
+	font-family: courier;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+}
+
+.circle1{
+	width: 50px;
+	height: 50px;
+	border-radius: 80px;
+	display: inline-block;
+	padding: 20px;
+	margin-right: 30px;
+	border: 2px solid black;
+	position: relative;
+	bottom: 80px;
+	left: 230px;
+}
+
+.circle3{
+	width: 50px;
+	height: 50px;
+	border-radius: 80px;
+	display: inline-block;
+	padding: 20px;
+	margin-right: 30px;
+	border: 2px solid black;
+	position: relative;
+	bottom: 80px;
+	left: 230px;
+}
+
+.circle5{
+	width: 50px;
+	height: 50px;
+	border-radius: 80px;
+	display: inline-block;
+	padding: 20px;
+	margin-right: 30px;
+	border: 2px solid black;
+	position: relative;
+	bottom: 80px;
+	left: 230px;
+}
+
+.A1{
+	font-size: 80px;
+	position: absolute;
+	top: 30px;
+	left: 300px;
+}
+
+.B1{
+	font-size: 80px;
+	position: absolute;
+	top: 30px;
+	left: 455px;
+}
+
+.C1{
+	font-size: 80px;
+	position: absolute;
+	top: 30px;
+	left: 605px;
+}
+
+.D1{
+	font-size: 80px;
+	position: absolute;
+	top: 30px;
+	left: 765px;
+}
+
+.E1{
+	font-size: 80px;
+	position: absolute;
+	top: 30px;
+	left: 920px;
+}
+
+.A3{
+	font-size: 80px;
+	position: absolute;
+	top: 370px;
+	left: 300px;
+}
+
+.B3{
+	font-size: 80px;
+	position: absolute;
+	top: 370px;
+	left: 455px;
+}
+
+.C3{
+	font-size: 80px;
+	position: absolute;
+	top: 370px;
+	left: 605px;
+}
+
+.D3{
+	font-size: 80px;
+	position: absolute;
+	top: 370px;
+	left: 765px;
+}
+
+.E3{
+	font-size: 80px;
+	position: absolute;
+	top: 370px;
+	left: 920px;
+}
+
+.A5{
+	font-size: 80px;
+	position: absolute;
+	top: 705px;
+	left: 300px;
+}
+
+.B5{
+	font-size: 80px;
+	position: absolute;
+	top: 705px;
+	left: 455px;
+}
+
+.C5{
+	font-size: 80px;
+	position: absolute;
+	top: 705px;
+	left: 605px;
+}
+
+.D5{
+	font-size: 80px;
+	position: absolute;
+	top: 705px;
+	left: 765px;
+}
+
+.E5{
+	font-size: 80px;
+	position: absolute;
+	top: 705px;
+	left: 920px;
+}
+
+.bird_one{
+	font-size: 80px;
+	position: absolute;
+	top: 230px;
+	left: 300px;
+}
+
+.bird_two{
+	font-size: 80px;
+	position: absolute;
+	top: 170px;
+	left: 453px;
+}
+
+.bird_three{
+	font-size: 80px;
+	position: absolute;
+	top: 230px;
+	left: 610px;
+}
+
+.bird_four{
+	font-size: 80px;
+	position: absolute;
+	top: 170px;
+	left: 760px;
+}
+
+.bird_five{
+	font-size: 80px;
+	position: absolute;
+	top: 230px;
+	left: 915px;
+}
+
+.bird_six{
+	font-size: 80px;
+	position: absolute;
+	top: 520px;
+	left: 300px;
+}
+
+.bird_seven{
+	font-size: 80px;
+	position: absolute;
+	top: 580px;
+	left: 453px;
+}
+
+.bird_eight{
+	font-size: 80px;
+	position: absolute;
+	top: 520px;
+	left: 610px;
+}
+
+.bird_nine{
+	font-size: 80px;
+	position: absolute;
+	top: 580px;
+	left: 760px;
+}
+
+.bird_ten{
+	font-size: 80px;
+	position: absolute;
+	top: 520px;
+	left: 915px;
+}
+
+ul{
+	list-style: none;
+	font-size: 50px;
+}
+
+p{
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1225px;
+}
