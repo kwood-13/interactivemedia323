@@ -7,3 +7,25 @@ a{
 a:hover{
 	color: white;
 }
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+	color: black;
+}
+
+nav{
+	color: black;
+}
+
+nav:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}
