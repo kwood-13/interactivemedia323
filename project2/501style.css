@@ -15,15 +15,14 @@ a:hover{
 	position: absolute;
 	top: 0.1px;
 	left: 1300px;
-	color: black;
 }
 
-nav{
+a1{
 	color: black;
 	text-decoration: underline;
 }
 
-nav:hover{
+a1:hover{
 	color: lightblue;
 	text-decoration-color: lightblue;
 }
