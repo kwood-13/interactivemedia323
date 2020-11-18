@@ -7,6 +7,18 @@ html{
 	text-orientation: upright;
 	position: relative;
 	left: 400px;
+	animation: nudge;
+	animation-duration: 5s; 
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+@keyframes nudge{
+	0% {
+   	 	top: 0;
+  }
+ 	 100% {
+    	top: 500px;
+  }
 }
 
 .one, .three, .five, .seven, .nine{
@@ -14,7 +26,6 @@ html{
 }
 
 .two, .four, .six, .eight, .ten{
-	color: ;
 	color: gray;
 }
 
