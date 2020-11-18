@@ -1,11 +1,15 @@
-a{
+p{
 	font-size: 100px;
 	font-family: impact, charcoal, san-serif;
 	color: black;
+	text-decoration: underline;
+	position: relative;
+	bottom: 65px;
 }
 
-a:hover{
+p:hover{
 	color: white;
+	text-decoration-color: white;
 }
 
 #nav{
@@ -17,12 +21,12 @@ a:hover{
 	left: 1300px;
 }
 
-a1{
+a{
 	color: black;
 	text-decoration: underline;
 }
 
-a1:hover{
+a:hover{
 	color: lightblue;
 	text-decoration-color: lightblue;
 }
