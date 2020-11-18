@@ -20,10 +20,12 @@ a:hover{
 
 nav{
 	color: black;
+	text-decoration: underline;
 }
 
 nav:hover{
 	color: lightblue;
+	text-decoration-color: lightblue;
 }
 
 li{
