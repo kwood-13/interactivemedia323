@@ -1,0 +1,69 @@
+.container{
+	position: relative;
+	top: 500px;
+	left: 800px;
+	font-family: courier;
+}
+
+.one{
+	font-size: 20px;
+}
+
+.two{
+	font-size: 50px;
+}
+
+.three{
+	font-size: 10px;
+}
+
+.four{
+	position: relative;
+	right: 80px;
+	font-size: 30px;
+}
+
+.five{
+	font-size: 33px;
+}
+
+.six{
+	font-size: 12px;
+}
+
+.seven{
+	font-size: 5px
+}
+
+.eight{
+	font-size: 88px;
+}
+
+.nine{
+	font-size: 65px;
+}
+
+.ten{
+	font-size: 26px;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 2090px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}

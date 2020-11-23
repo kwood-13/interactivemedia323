@@ -1,0 +1,71 @@
+.one{
+	font-style: italic;
+	font-family: garamond;
+}
+
+.two{
+	font-weight: 900;
+}
+
+.three{
+	line-height: 60%;
+}
+
+.four{
+	text-align: center
+}
+
+.five{
+	letter-spacing: 10px;
+}
+
+.six{
+	text-transform: capitalize;
+	position: relative;
+	left: 500px;
+	top: 500px;
+}
+
+.seven{
+	position: absolute;
+}
+
+.eight{
+	position: relative;
+	top: 20px;
+	font-family: monospace;
+}
+
+.nine{
+	position: relative;
+	top: 20px;
+	letter-spacing: 15px;
+	font-style: sans-serif;
+}
+
+.ten{
+	position: relative;
+	top: 23px;
+	text-transform: uppercase;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}

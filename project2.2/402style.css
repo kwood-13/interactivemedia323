@@ -1,0 +1,24 @@
+body{
+	font-size: 40px;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}

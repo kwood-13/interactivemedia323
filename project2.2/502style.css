@@ -1,0 +1,51 @@
+html{
+	background: black;
+}
+
+.main{
+	writing-mode: vertical-lr;
+	text-orientation: upright;
+	position: relative;
+	left: 400px;
+	animation: nudge;
+	animation-duration: 5s; 
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+@keyframes nudge{
+	0% {
+   	 	top: 0;
+  }
+ 	 100% {
+    	top: 500px;
+  }
+}
+
+.one, .three, .five, .seven, .nine{
+	color: white;
+}
+
+.two, .four, .six, .eight, .ten{
+	color: gray;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}

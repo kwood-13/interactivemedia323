@@ -1,0 +1,311 @@
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}
+
+.main_one{
+	position: relative;
+	left: 130px;
+	color: red;
+}
+
+.one{
+	position: relative;
+	left: 6px;
+}
+
+.three{
+	position: relative;
+	right: 17px;
+}
+
+.four{
+	position: relative;
+	right: 6px;
+}
+
+.five{
+	position: relative;
+	left: 5px;
+}
+
+.main_two{
+	position: relative;
+	left: 500px;
+	bottom: 87px;
+	color: darkred;
+}
+
+.six{
+	position: relative;
+	left: 20px;
+}
+
+.seven{
+	position: relative;
+	right: 10px;
+}
+
+.eight{
+	position: relative;
+	left: 3px;
+}
+
+.nine{
+	position: relative;
+	left: 16px;
+}
+
+.main_three{
+	position: relative;
+	left: 1000px;
+	color: orange;
+}
+
+.ten{
+	position: relative;
+	left: 42px;
+}
+
+.eleven{
+	position: relative;
+	left: 32px;
+}
+
+.thirteen{
+	position: relative;
+	left: 22px;
+}
+
+.fourteen{
+	position: relative;
+	left: 25px;
+}
+
+.fifteen{
+	position: relative;
+	left: 42px;
+}
+
+.main_four{
+	position: relative;
+	left: 300px;
+	bottom: 100px;
+	color: yellow;
+}
+
+.sixteen{
+	position: relative;
+	left: 24px;
+}
+
+.eighteen{
+	position: relative;
+	right: 13px;
+}
+
+.twentyone{
+	position: relative;
+	left: 24px;
+}
+
+.main_five{
+	position: relative;
+	left: 600px;
+	bottom: 50px;
+	color: lightgreen;
+}
+
+.twentytwo{
+	position: relative;
+	left: 15px;
+}
+
+.twentyfour{
+	position: relative;
+	right: 33px;
+}
+
+.twentyfive{
+	position: relative;
+	right: 18px;
+}
+
+.twentysix{
+	position: relative;
+	left: 8px;
+}
+
+.twentyseven{
+	position: relative;
+	left: 8px;
+}
+
+.twentyeight{
+	position: relative;
+	left: 18px;
+}
+
+.main_six{
+	position: static;
+	color: darkgreen;
+}
+
+.twentynine{
+	position: relative;
+	left: 55px;
+}
+
+.thirty{
+	position: relative;
+	left: 39px;
+}
+
+.thirtytwo{
+	position: relative;
+	left: 30px;
+}
+
+.thirtythree{
+	position: relative;
+	left: 51px;
+}
+
+.thirtyfour{
+	position: relative;
+	left: 52px;
+}
+
+.main_seven{
+	position: relative;
+	left: 1290px;
+	color: lightblue;
+}
+
+.thirtyfive{
+	position: relative;
+	left: 24px;
+}
+
+.thirtysix{
+	position: relative;
+	left: 14px;
+}
+
+.thirtyeight{
+	position: relative;
+	left: 14px;
+}
+
+.thirtynine{
+	position: relative;
+	left: 22px;
+}
+
+.main_eight{
+	position: relative;
+	left: 800px;
+	bottom: 300px;
+	color: darkblue;
+}
+
+.fourty{
+	position: relative;
+	left: 30px;
+}
+
+.fourtytwo{
+	position: relative;
+	right: 17px;
+}
+
+.fourtyfour{
+	position: relative;
+	left: 28px;
+}
+
+.fourtyfive{
+	position: relative;
+	left: 26px;
+}
+
+.main_nine{
+	position: relative;
+	left: 155px;
+	bottom: 150px;
+	color: purple;
+}
+
+.fourtysix{
+	position: relative;
+	left: 32px;
+}
+
+.fourtyseven{
+	position: relative;
+	left: 7px;
+}
+
+.fourtynine{
+	position: relative;
+	left: 7px;
+}
+
+.fifty{
+	position: relative;
+	left: 40px;
+}
+
+.fiftyone{
+	position: relative;
+	left: 28px;
+}
+
+.main_ten{
+	position: relative;
+	left: 800px;
+	bottom: 150px;
+	color: violet;
+}
+
+.fiftytwo{
+	position: relative;
+	left: 20px;
+}
+
+.fiftyfour{
+	position: relative;
+	right: 20px;
+}
+
+.fiftyfive{
+	position: relative;
+	right: 5px;
+}
+
+.fiftyseven{
+	position: relative;
+	left: 20px;
+}
+
+.fiftyeight{
+	position: relative;
+	left: 20px;
+}
+

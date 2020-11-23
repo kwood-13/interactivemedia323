@@ -1,0 +1,60 @@
+.one{
+	float: right;
+}
+
+.two{
+	float: left;
+}
+
+.three{
+	clear: left;
+}
+
+.four{
+	float: right;
+}
+
+.five{
+	clear: left;
+}
+
+.six{
+	float: right;
+}
+
+.seven{
+	clear: left;
+}
+
+.eight{
+	float: right;
+}
+
+.nine{
+	float: left;
+}
+
+.ten{
+	clear: right;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: relative;
+	top: 0.1px;
+	right: 0.1px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}

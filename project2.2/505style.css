@@ -1,0 +1,69 @@
+.main{
+	position: relative;
+	left: 550px;
+	top: 100px;
+	color: white;
+	animation: nudge;
+	animation-duration: 5s; 
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes nudge{
+  from {left:550px;}
+  to {left:700px;}
+}
+
+.main2{
+	position: relative;
+	right: 863px;
+	bottom: 314px;
+	transform: scale(-1,1);
+	color: white;
+	animation: move;
+	animation-duration: 5s; 
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes move{
+  from {right:863px;}
+  to {right:700px;}
+}
+
+#arrow{
+	position: relative;
+	left: 548px;
+	top: 100px;
+	color: white;
+	animation: nudge;
+	animation-duration: 5s; 
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+html{
+	background: lightblue;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: white;
+}
+
+li{
+	list-style-type: none;
+}
+

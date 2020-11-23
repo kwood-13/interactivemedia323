@@ -1,0 +1,90 @@
+.one{
+	position: relative;
+	top: 200px;
+	left: 350px;
+	font-size: 40px;
+}
+
+.two{
+	position: relative;
+	top: 100px;
+	left: 350px;
+	font-size: 40px;
+}
+
+.three{
+	position: relative;
+	top: 90px;
+	left: 350px;
+	font-size: 40px;
+}
+
+.four{
+	position: relative;
+	top: 50px;
+	left: 250px;
+	font-size: 40px;
+}
+
+.five{
+	position: relative;
+	top: 20px;
+	left: 180px;
+	font-size: 40px;
+}
+
+.six{
+	position: relative;
+	top: 100px;
+	left: 190px;
+	font-size: 40px;
+}
+
+.seven{
+	position: relative;
+	bottom: 400px;
+	left: 890px;
+	font-size: 40px;
+}
+
+.eight{
+	position: relative;
+	bottom: 750px;
+	left: 190px;
+	font-size: 40px;
+}
+
+.nine{
+	position: relative;
+	bottom: 600px;
+	left: 350px;
+	font-size: 40px;
+}
+
+.ten{
+	position: relative;
+	bottom: 700px;
+	left: 170px;
+	font-size: 40px;
+}
+
+#nav{
+	font-family: courier;
+	font-size: 15px;
+	text-align: right;
+	position: absolute;
+	top: 0.1px;
+	left: 1300px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+li{
+	list-style-type: none;
+}
