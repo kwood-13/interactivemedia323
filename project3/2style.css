@@ -1,5 +1,5 @@
 @font-face{
-	font-family: "DalekPinPointBold";
+	font-family: fonts;
 	src: url(./fonts/dalekpinpointbold.ttf);
 
 }
@@ -20,7 +20,7 @@
 }
 
 a{
-	font-family: greekfont;
+	font-family: fonts;
 	font-size: 60px;
   color: #703529;
   text-decoration: none;
