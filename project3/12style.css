@@ -1,0 +1,84 @@
+@font-face{
+	font-family: greekfont;
+	src: url(./fonts/dalekpinpointbold.ttf);
+}
+
+@font-face{
+	font-family: junicode;
+	src: url(./fonts/junicode.ttf);
+}
+
+#link12{
+	font-family: junicode;
+	font-size: 70px;
+	color: #2e3546;
+	position: fixed;
+	margin-left: 11.5%;
+	margin-top: 0.5%;
+	z-index: 1;
+}
+
+#link12_2{
+	opacity: 70%;
+	position: relative;
+	bottom: 10px;
+	margin-left: 150px;
+	z-index: 2;
+}
+
+#link12_3{
+	font-family: junicode;
+	font-size: 70px;
+	color: #2e3546;
+	position: fixed;
+	margin-left: 25%;
+	margin-top: -7%;
+	margin-right: 0;
+	z-index: 1;
+}
+
+#link12_4{
+	opacity: 70%;
+	position: relative;
+	margin-left: 450px;
+	bottom: 80px;
+	z-index: 2;
+}
+
+#link12_5{
+	font-family: junicode;
+	font-size: 70px;
+	color: #2e3546;
+	position: fixed;
+	margin-top: -13%;
+	margin-left: 48%;
+	z-index: 1;
+}
+
+a{
+	font-family: greekfont;
+	font-size: 290px;
+	color: #703529;
+	text-decoration: none;
+}
+
+a:hover{
+  color: #283d70;
+}
+
+#gb5{
+	position: absolute;
+	margin-top: -650px;
+	margin-left: 300px;
+}
+
+#gb6{
+	position: absolute;
+	margin-top: -675px;
+	margin-right: 1050px;
+}
+
+html{
+	background: #c6934b;
+}
+

@@ -1,0 +1,44 @@
+html{
+	background: #2e3546;
+}
+
+#start{
+	font-family: junicode;
+	color: #e0ddd5;
+	font-size: 200px;
+}
+
+.star1{
+	font-family: junicode;
+	color: #e0ddd5;
+	font-size: 50px;
+	position: absolute;
+	bottom: 35px;
+}
+
+.star1:hover span{
+	display: none;
+}
+
+.star1:hover:after{
+	content: "cite: Percy Jackson by Rick Riordan Book 1 pgs: 183-184";
+	font-size: 20px;
+}
+
+.star2{
+	font-family: junicode;
+	color: #e0ddd5;
+	font-size: 50px;	
+	position: absolute;
+	bottom: 0;
+}
+}
+
+.star2:hover span{
+	display: none;
+}
+
+.star2:hover:after{
+	content: "cite: http://myths.e2bn.org/mythsandlegends/textonly20134-perseus-and-medusa.html";
+	font-size: 20px;
+}

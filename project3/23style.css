@@ -1,0 +1,47 @@
+@font-face{
+	font-family: greekfont;
+	src: url(./fonts/dalekpinpointbold.ttf);
+}
+
+@font-face{
+	font-family: junicode;
+	src: url(./fonts/junicode.ttf);
+}
+
+#link23{
+	font-family: junicode;
+	font-size: 70px;
+	color: #e0ddd5;
+	position: relative;
+	margin-top: 40px;
+	margin-left: -20px;
+	transform: rotate(-45deg);
+	overflow: hidden;
+}
+
+#link23_2{
+	font-family: junicode;
+	font-size: 70px;
+	color: #e0ddd5;
+	position: absolute;
+	left: 600px;
+	bottom: 0;
+
+}
+
+
+a{
+	font-family: greekfont;
+	font-size: 60px;
+  	color: #703529;
+  	text-decoration: none;
+}
+
+a:hover{
+  color: #283d70;
+}
+
+html{
+	background: #c6934b;
+}
+

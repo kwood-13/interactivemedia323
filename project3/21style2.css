@@ -1,0 +1,135 @@
+@font-face{
+	font-family: greekfont;
+	src: url(./fonts/dalekpinpointbold.ttf);
+}
+
+@font-face{
+	font-family: junicode;
+	src: url(./fonts/junicode.ttf);
+}
+
+#link21{
+	font-family: junicode;
+	font-size: 70px;
+	color: #e0ddd5;
+	position: absolute;
+	top: 60px;
+	left: 350px;
+}
+
+#link21_2{
+	font-family: junicode;
+	font-size: 70px;
+	color: #e0ddd5;
+	position: absolute;
+	top: 320px;
+	left: 570px;
+}
+
+#claw1{
+	position: relative;
+	top: -345px;
+	right: 270px;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 50%;
+}
+
+#claw2{
+	position: relative;
+	top: -1320px;
+	right: 330px;
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	height: 50%;
+}
+
+#claw3{
+	position: relative;
+	top: -2290px;
+	right: 260px;
+	overflow: hidden;
+	width: 100%;
+	height: 50%;
+}
+
+#claw4{
+	position: relative;
+	top: -3280px;
+	right: 140px;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 50%;
+}
+
+#claw5{
+	position: relative;
+	top: -4715px;
+	left: 270px;
+	overflow: hidden;
+	width: 100%;
+	height: 50%;
+}
+
+#claw6{
+	position: relative;
+	top: -5686px;
+	left: 330px;
+	overflow: hidden;
+	width: 100%;
+	height: 50%;
+}
+
+#claw7{
+	position: relative;
+	top: -6653px;
+	left: 260px;
+	overflow: hidden;
+	width: 100%;
+	height: 50%;
+}
+
+#claw8{
+	position: relative;
+	top: -7640px;
+	left: 140px;
+	overflow: hidden;
+	width: 100%;
+	height: 50%;
+}
+
+.flipH {
+  transform: scale(-1, 1);
+}
+
+#clawbox{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 358px;
+	top: 290px;
+	background: none;
+	z-index: 1;
+	overflow: hidden;
+}
+
+#clawbox2{
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	right: 380px;
+	top: 408px;
+	background: none;
+	z-index: 1;
+	overflow: hidden;
+}
+
+html{
+	background: #c6934b;
+}
+

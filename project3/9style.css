@@ -1,0 +1,74 @@
+@font-face{
+	font-family: greekfont;
+	src: url(./fonts/dalekpinpointbold.ttf);
+}
+
+@font-face{
+	font-family: junicode;
+	src: url(./fonts/junicode.ttf);
+}
+
+#link9{
+	font-family: junicode;
+	font-size: 70px;
+	color: #e0ddd5;
+	text-align: center;
+	vertical-align: middle;
+	z-index: 1;
+}
+
+span{
+	font-family: greekfont;
+	font-size: 60px;
+  	color: #703529;
+  	text-decoration: none;
+}
+
+span:hover{
+  color: #283d70;
+}
+
+#sword{
+	position: absolute;
+	margin-top: -500px;
+	margin-left: 600px;
+	transform: rotate(42deg);
+	overflow: hidden;
+	z-index: -1;
+}
+
+#sword2{
+	position: absolute;
+	margin-top: -500px;
+	margin-right: 600px;
+	transform: rotate(-138deg);
+	overflow: hidden;
+	z-index: -1;
+}
+
+#swordbox{
+	position: absolute;
+	width: 50px;
+	height: 360px;
+	background: none;
+	z-index: 1;
+	overflow: hidden;
+	left: 995px;
+	bottom: 280px;
+}
+
+#swordbox2{
+	position: absolute;
+	width: 50px;
+	height: 360px;
+	background: none;
+	z-index: 1;
+	overflow: hidden;
+
+	left: 395px;
+	bottom: 285px;}
+
+html{
+	background: #c6934b;
+}
+

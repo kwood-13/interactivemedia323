@@ -1,0 +1,31 @@
+@font-face{
+	font-family: greekfont;
+	src: url(./fonts/dalekpinpointbold.ttf);
+}
+
+#greekcircle{
+	width: 97%;
+	height: 95%;
+	position: absolute;
+
+}#link1{
+	font-family: greekfont;
+	font-size: 180px;
+	position: absolute;
+	left: 32%;
+	top: 37%;
+}
+
+a{
+	color: #703529;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #283d70;
+}
+
+html{
+	background: #c6934b;
+}
+
