@@ -40,3 +40,7 @@ html{
   left: -1px;
   z-index: -1;
 }
+
+body{
+  font-family: ./fonts/dalekpinpointbold.ttf;
+}
