@@ -1,6 +1,6 @@
 @font-face{
 	font-family: greekfont;
-	src: url(./fonts/dalekpinpointbold.ttf);
+	src: url(./fonts/dalek.ttf);
 }
 
 #greekcircle{
@@ -13,7 +13,7 @@
 	font-size: 180px;
 	position: absolute;
 	left: 32%;
-	top: 37%;
+	top: 30%;
 }
 
 a{
@@ -27,8 +27,4 @@ a:hover{
 
 html{
 	background: #c6934b;
-}
-
-body{
-	font-family: ./fonts/dalekpinpointbold.ttf;
 }

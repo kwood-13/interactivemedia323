@@ -1,6 +1,6 @@
 @font-face{
 	font-family: greekfont;
-	src: url(./fonts/dalekpinpointbold.ttf);
+	src: url(./fonts/dalek.ttf);
 }
 
 @font-face{
@@ -45,14 +45,14 @@ a:hover{
 
 #gb4{
 	position: absolute;
-	margin-top: -909px;
+	margin-top: -1060px;
 	overflow: hidden;
 	z-index: -1;
 }
 
 #gb4_2{
 	position: absolute;
-	margin-top: -621px;
+	margin-top: -660px;
 	overflow: hidden;
 	z-index: -1;
 }
