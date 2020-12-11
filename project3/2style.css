@@ -1,7 +1,7 @@
 @font-face{
 	font-family: greekfont;
-	src: url(./fonts/dalekpinpointbold.ttf);
-  
+	src: url(./fonts/dalek.ttf);
+
 }
 
 @font-face{
@@ -40,8 +40,4 @@ html{
   opacity: 50%;
   left: -1px;
   z-index: -1;
-}
-
-body{
-  font-family: ./fonts/dalekpinpointbold.ttf;
 }
