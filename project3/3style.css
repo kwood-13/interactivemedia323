@@ -20,9 +20,10 @@
 
 #link3_2{
 	font-size: 450px;
-	vertical-align: center;
 	text-align: center;
 	opacity: 50%;
+	position: absolute;
+	right: 100px;
 }
 
 a{
